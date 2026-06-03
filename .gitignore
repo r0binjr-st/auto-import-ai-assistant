@@ -1,0 +1,11 @@
+.env
+codex_auto_import_ai_assistant.md
+.venv/
+__pycache__/
+.pytest_cache/
+pytest-cache-files-*/
+*.pyc
+*.log
+outputs/leads_log.csv
+outputs/*.log
+.streamlit/secrets.toml

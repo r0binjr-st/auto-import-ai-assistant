@@ -1,0 +1,36 @@
+brand,model,country,body_type,year,mileage_km,price_rub,total_price_rub,engine,drivetrain,pros,cons,liquidity,comfort,reliability,status,equipment,manager_notes
+Genesis,GV70,Korea,SUV,2022,32000,5200000,6700000,2.5 turbo,AWD,Premium cabin and balanced size,Check service history and paint,5,5,4,5,5,Good fit for premium crossover request
+Genesis,GV80,Korea,SUV,2021,48000,6400000,8100000,3.5 turbo,AWD,Large cabin and high status,Higher tax and expensive tires,5,5,4,5,5,Verify options and accident history
+Genesis,G80,Korea,sedan,2022,26000,5000000,6600000,2.5 turbo,RWD,Comfortable business sedan,Lower family practicality,4,5,4,5,5,Strong sedan option for city use
+Hyundai,Palisade,Korea,SUV,2022,41000,4400000,5900000,3.8 petrol,AWD,Spacious family SUV,Fuel consumption is high,4,5,4,4,4,Check third row and tire condition
+Kia,Carnival,Korea,minivan,2023,21000,4300000,5700000,2.2 diesel,FWD,Excellent family space,Minivan image not for everyone,4,5,4,3,5,Best for family and comfort
+Kia,Sorento,Korea,SUV,2022,38000,3600000,5100000,2.5 petrol,AWD,Reasonable price and family format,Not as premium as Genesis,5,4,4,3,4,Good low risk family pick
+Hyundai,Grandeur,Korea,sedan,2023,19000,4100000,5400000,1.6 hybrid,FWD,Comfortable and efficient sedan,Less status than German rivals,4,5,4,4,5,Check hybrid battery warranty
+Genesis,GV70,Korea,SUV,2023,17000,5900000,7600000,2.5 turbo,AWD,Fresh year and strong equipment,Limited color choice,5,5,4,5,5,Good balance below 8 million
+Kia,Mohave,Korea,SUV,2021,56000,3900000,5400000,3.0 diesel,AWD,Frame SUV and strong diesel,Older platform and high mileage,4,4,4,3,4,Check diesel and suspension
+BMW,X5,Europe,SUV,2021,52000,6500000,8500000,3.0 diesel,AWD,High liquidity and premium image,Maintenance risk and costly options,5,5,4,5,5,Verify diagnostics and service invoices
+BMW,5 Series,Europe,sedan,2022,42000,4700000,6500000,2.0 petrol,RWD,Classic business sedan,Ground clearance is modest,5,5,4,5,4,Check body and electronic systems
+Mercedes-Benz,GLE,Europe,SUV,2021,61000,6900000,9000000,3.0 diesel,AWD,Comfort and strong status,Expensive maintenance and mileage,5,5,4,5,5,Check air suspension and service history
+Mercedes-Benz,E-Class,Europe,sedan,2022,37000,5200000,7000000,2.0 petrol,RWD,Comfortable and liquid sedan,Sensitive to options and condition,5,5,4,5,5,Good city status option
+Audi,Q7,Europe,SUV,2020,72000,5600000,7600000,3.0 diesel,AWD,Large cabin and quattro,Risk from mileage and diesel systems,4,5,4,5,4,Check gearbox and suspension
+Porsche,Cayenne,Europe,SUV,2020,68000,7200000,9800000,3.0 petrol,AWD,Very high status and dynamics,High ownership cost,5,5,4,5,5,Only for client ready for maintenance cost
+Volvo,XC90,Europe,SUV,2021,54000,5100000,7100000,2.0 petrol,AWD,Safety and family comfort,Multimedia and suspension checks needed,4,5,4,4,5,Strong family premium alternative
+Range Rover,Sport,Europe,SUV,2020,69000,6900000,9400000,3.0 diesel,AWD,Status and comfort,Reliability and suspension risk,4,5,3,5,5,Require deep diagnostics
+BMW,X3,Europe,SUV,2022,33000,4800000,6500000,2.0 diesel,AWD,Compact premium SUV and liquidity,Less spacious than X5,5,4,4,4,4,Practical alternative below 7 million
+Audi,A6,Europe,sedan,2021,46000,4300000,6100000,2.0 petrol,AWD,Quiet cabin and quattro,Check DSG and electronics,4,5,4,4,4,Good business sedan with AWD
+Mercedes-Benz,GLS,Europe,SUV,2020,74000,7800000,10500000,3.0 diesel,AWD,Large luxury SUV,Above many budgets and costly service,5,5,4,5,5,Use only for high budget client
+Li Auto,L7,China,SUV,2023,18000,4300000,5600000,range extender,AWD,Modern tech and comfortable cabin,Brand liquidity still developing,4,5,4,4,5,Clarify attitude to Chinese brands
+Li Auto,L9,China,SUV,2023,24000,5400000,7100000,range extender,AWD,Large family cabin and equipment,Complex electronics to verify,4,5,4,5,5,Strong family tech option
+Zeekr,001,China,liftback,2023,22000,3900000,5200000,electric,AWD,Fast electric liftback and rich equipment,Charging habits and battery check,4,4,4,4,5,Check battery health report
+Zeekr,009,China,minivan,2023,16000,6200000,8100000,electric,AWD,Luxury minivan and huge cabin,Expensive and niche liquidity,3,5,4,5,5,Best for VIP family format
+Voyah,Free,China,SUV,2023,26000,3600000,5000000,range extender,AWD,Good equipment for price,Brand perception risk,3,4,4,4,5,Check warranty and software
+Tank,500,China,SUV,2023,29000,4400000,5900000,3.0 hybrid,AWD,Frame SUV and strong presence,Fuel use and resale uncertainty,4,4,4,4,5,Good for status SUV below 6 million
+Hongqi,H9,China,sedan,2023,21000,4300000,5700000,2.0 turbo,RWD,Status sedan with rich cabin,Liquidity weaker than German brands,3,5,4,5,5,Clarify client attitude to China
+Avatr,11,China,SUV,2023,12000,4800000,6400000,electric,AWD,Design and tech equipment,Charging and niche market risk,3,5,4,5,5,Check battery and charging scenario
+Nio,ES8,China,SUV,2022,34000,4300000,5900000,electric,AWD,Large electric SUV and comfort,Charging ecosystem risk,3,5,4,4,5,Verify battery ownership terms
+Lixiang,L8,China,SUV,2023,20000,4700000,6300000,range extender,AWD,Family friendly and well equipped,Software and resale checks needed,4,5,4,4,5,Alternative to Li Auto L9
+Volkswagen,Multivan,Europe,minivan,2021,62000,5200000,7200000,2.0 diesel,FWD,Practical premium van,Mileage and diesel checks,4,4,4,3,4,Good family logistics option
+Lexus,RX,Europe,SUV,2021,50000,5500000,7300000,3.5 hybrid,AWD,Reliability and comfort,May be older for budget,5,5,5,4,4,Check origin and service records
+Toyota,Alphard,Japan,minivan,2021,47000,6500000,8500000,3.5 petrol,FWD,VIP family comfort and liquidity,High price and theft risk,5,5,5,5,5,Not target region but useful benchmark
+Skoda,Superb,Europe,liftback,2022,39000,3000000,4400000,2.0 petrol,FWD,Large cabin and rational price,Less premium status,4,4,4,3,4,Good pragmatic alternative
+Volvo,V90,Europe,wagon,2021,58000,3900000,5600000,2.0 petrol,AWD,Comfortable wagon and safety,Lower demand than SUV,3,5,4,4,4,Check suspension and electronics
